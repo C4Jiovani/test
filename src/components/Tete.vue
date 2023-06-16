@@ -11,7 +11,7 @@ import Compo from './Compo.vue';
         name: "laTete",
         data(){
             return {
-                head: ["Home","Services","Our project","About Us"]
+                head: ["maison","Services","Our project","About Us"]
             }
         },
         components:{
